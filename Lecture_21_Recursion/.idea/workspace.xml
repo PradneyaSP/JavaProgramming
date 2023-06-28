@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="341a7bf9-19e1-4ea7-8b1f-153fa7612d1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/A_PrintTillN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/B_Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/C_Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/D_SumOfDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/E_LogarithmicPower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/F_KMultiples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/G_SumOfNNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/H_GCD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/out/production/Lecture_21_Recursion/I_RecursionOnArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/A_PrintTillN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/B_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/C_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/D_SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/E_LogarithmicPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/F_KMultiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/G_SumOfNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/H_GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/src/I_RecursionOnArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_1_Basics/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/Lecture_10_Methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/Lecture_21_Recursion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Algebra.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Algebra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/App3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/App3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Constructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Mathematics.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Mathematics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Maths.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Maths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/OutsidePWSkills.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/OutsidePWSkills.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Physics_Wallah/skills/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Physics_Wallah/skills/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Physics_Wallah/skills/App2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Physics_Wallah/skills/App2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/out/production/Lecture_10_Methods/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/out/production/Lecture_10_Methods/Welcome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/Mathematics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/Mathematics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/OutsidePWSkills.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/OutsidePWSkills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/Physics_Wallah/skills/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/Physics_Wallah/skills/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10_Methods/src/delete" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/src/delete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/Lecture_11_Scope.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/Lecture_1_Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/out/production/Lecture_11_Scope/Algebra.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/out/production/Lecture_11_Scope/Algebra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/out/production/Lecture_11_Scope/Scope.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/out/production/Lecture_11_Scope/Scope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/src/Call.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/src/Call.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_11_Scope/src/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/src/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/Lecture_12_Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/Lecture_10_Methods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/ArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/ArrayExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/Maximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/Maximum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/Multi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/Multi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/MultiDim.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/MultiDim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/out/production/Lecture_12_Arrays/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/out/production/Lecture_12_Arrays/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/src/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Maximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/src/Multi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Multi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12_Arrays/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/Lecture_13_Arrays_Input.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/Lecture_11_Scope.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/Array_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/Array_Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/Array_Reference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/Check_Sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/Repeat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/out/production/Lecture_13_Arrays_Input/Smallest_Largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/Array_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Array_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/Array_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Array_Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/Array_Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Array_Reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/Check_Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Check_Sorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/Repeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Repeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13_Arrays_Input/src/Smallest_Largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Smallest_Largest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/.idea/Lecture_14_ArraysProb1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/out/production/Lecture_14_ArraysProb1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/out/production/Lecture_14_ArraysProb1/.idea/Lecture_14_ArraysProb1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/out/production/Lecture_14_ArraysProb1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/out/production/Lecture_14_ArraysProb1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/src/RepeatingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/RepeatingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/src/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/src/TargetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/TargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/src/Triplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Triplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14_ArraysProb1/src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/src/Unique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/Lecture_15_ArrayProblem2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/Lecture_12_Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/out/production/Lecture_15_ArrayProblem2/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/out/production/Lecture_15_ArrayProblem2/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/out/production/Lecture_15_ArrayProblem2/RotateWithoutExtraSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/out/production/Lecture_15_ArrayProblem2/RotateWithoutExtraSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/out/production/Lecture_15_ArrayProblem2/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/out/production/Lecture_15_ArrayProblem2/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/out/production/Lecture_15_ArrayProblem2/Shift.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/out/production/Lecture_15_ArrayProblem2/Shift.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/out/production/Lecture_15_ArrayProblem2/swap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/out/production/Lecture_15_ArrayProblem2/swap1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/out/production/Lecture_15_ArrayProblem2/swap2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/out/production/Lecture_15_ArrayProblem2/swap2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/src/RotateWithoutExtraSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/RotateWithoutExtraSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/src/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/src/Shift.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/Shift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/src/swap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/swap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15_ArrayProblem2/src/swap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/swap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/Lecture_16_ArraysProblem3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/Lecture_15_ArrayProblem2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/out/production/Lecture_16_ArraysProblem3/EvenAndOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/out/production/Lecture_16_ArraysProblem3/SortZeroOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/out/production/Lecture_16_ArraysProblem3/SortZeroOne2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/out/production/Lecture_16_ArraysProblem3/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/src/EvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/EvenAndOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/src/SortZeroOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/SortZeroOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/src/SortZeroOne2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/SortZeroOne2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16_ArraysProblem3/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6_Scope/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/Lecture_17_ArraysProblem4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/out/production/Lecture_17_ArraysProblem4/PrefixSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/out/production/Lecture_17_ArraysProblem4/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/src/PrefixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/PrefixSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17_ArraysProblem4/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7_Arrays/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5_Methods/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/Lecture_18_Strings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/Lecture_18_Strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/Interning.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/Interning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/ReverseWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/StringBuilderIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/StringBuilderIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/StringCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/StringCompression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/StringIntChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/StringIntChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/StringsBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/StringsBasics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/Substring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/out/production/Lecture_18_Strings/Toggle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/out/production/Lecture_18_Strings/Toggle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/Interning.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/Interning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/StringBuilderIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/StringBuilderIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/StringCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/StringIntChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/StringIntChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/StringsBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/StringsBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18_Strings/src/Toggle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/src/Toggle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8_Arrays_2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/Lecture_19_OOPS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/Lecture_19_OOPS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/A_StudentClass$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/A_StudentClass$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/A_StudentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/A_StudentClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/B_PassingClassToFunc$Student2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/B_PassingClassToFunc$Student2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/B_PassingClassToFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/B_PassingClassToFunc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/C_AccessModifiers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/C_AccessModifiers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/D_Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/D_Constructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/E_Fraction$Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/E_Fraction$Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/E_Fraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/E_Fraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/F_ArrayList_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/F_ArrayList_Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/G_ArrayListReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/G_ArrayListReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/H_ArrayListSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/H_ArrayListSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/out/production/Lecture_19_OOPS/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/out/production/Lecture_19_OOPS/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/A_StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/A_StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/B_PassingClassToFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/B_PassingClassToFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/C_AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/C_AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/D_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/D_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/E_Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/E_Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/F_ArrayList_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/F_ArrayList_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/G_ArrayListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/G_ArrayListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/H_ArrayListSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/H_ArrayListSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19_OOPS/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10_OOPS_2/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/Lecture_20_LinkedList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/Lecture_20_LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/A_BasicsLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/A_BasicsLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/A_BasicsLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/A_BasicsLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/B_ImplementationLL$MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/B_ImplementationLL$MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/B_ImplementationLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/B_ImplementationLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/B_ImplementationLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/B_ImplementationLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/Solution$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/Solution$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/out/production/Lecture_20_LinkedList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/out/production/Lecture_20_LinkedList/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/src/A_BasicsLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/src/A_BasicsLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/src/B_ImplementationLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/src/B_ImplementationLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20_LinkedList/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_12_LinkedList/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A_PrintTillN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/Lecture_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/Cube.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/Cube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/out/production/Lecture_1/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/out/production/Lecture_1_Basics/Swap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3_Variables/src/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/Lecture_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/out/production/Lecture_2/Char.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/out/production/Lecture_2/InputAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/out/production/Lecture_2/Marks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/out/production/Lecture_2/SimpleInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/out/production/Lecture_2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/out/production/Lecture_2/TwoWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/src/Char.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Char.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/src/InputAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/InputAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/src/Marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Marks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/src/SimpleInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/SimpleInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4_Input/src/TwoWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/TwoWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/Lecture_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/out/production/Lecture_5/Introduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/out/production/Lecture_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/out/production/Lecture_6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/out/production/Lecture_5/Operators1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/out/production/Lecture_5/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/out/production/Lecture_5/SwapWIth2Var.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/out/production/Lecture_5/TrueOrFalse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/Operators1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/Operators1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/RelationalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/RelationalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/SwapWIth2Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/SwapWIth2Var.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5_Operators/src/TrueOrFalse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_1_Basics/src/TrueOrFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/Lecture_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/Lecture_6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/out/production/Lecture_6/AbsoluteValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/out/production/Lecture_6/AbsoluteValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/out/production/Lecture_6/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/out/production/Lecture_6/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/out/production/Lecture_6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/out/production/Lecture_7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/out/production/Lecture_6/Profit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/out/production/Lecture_6/Profit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/out/production/Lecture_6/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/out/production/Lecture_6/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/src/AbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/src/AbsoluteValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/src/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/src/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/src/Profit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/src/Profit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6_Conditionals/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_2_Conditionals/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9_Strings/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/Lecture_7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/Lecture_7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/out/production/Lecture_7/BreakKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/out/production/Lecture_7/BreakKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/out/production/Lecture_7/ContinueKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/out/production/Lecture_7/ContinueKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/out/production/Lecture_7/FiveOrSeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/out/production/Lecture_7/FiveOrSeven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/out/production/Lecture_7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/out/production/Lecture_7/Print1ToN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/out/production/Lecture_7/Print1ToN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/src/BreakKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/BreakKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/src/ContinueKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/ContinueKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/src/FiveOrSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/FiveOrSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7_Loops/src/Print1ToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/Print1ToN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_11_Recursion/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/Lecture_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/NumRec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/OneTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/PyramidNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/RectangleBorders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/RectangularPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/out/production/Lecture_8/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/NumRec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/NumRec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/OneTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/OneTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/PyramidNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/PyramidNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/RectangleBorders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/RectangleBorders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/RectangularPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/RectangularPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8_LoopsProblems/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3_Loops/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/Lecture_9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/Lecture_9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/out/production/Lecture_9/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/out/production/Lecture_9/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/out/production/Lecture_9/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/out/production/Lecture_9/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9_OOPS/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4_OOPS/src/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RVkdLaTIfnyPYnWXUCR2CrVDAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="A_PrintTillN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_PrintTillN" />
+      <module name="Lecture_21_Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A_PrintTillN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="341a7bf9-19e1-4ea7-8b1f-153fa7612d1b" name="Changes" comment="" />
+      <created>1687342724499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687342724499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
