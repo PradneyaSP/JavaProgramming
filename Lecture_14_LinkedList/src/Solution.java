@@ -214,8 +214,130 @@ class Node {
         return head;
     }
 
-    public static void main(String[] args) {
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+        ListNode leftptr = head;
+        ListNode rightptr = head;
+        ListNode temp = head;
+        ListNode start = head;
+        ListNode end = head;
+        int count = 1;
 
+        while (temp != null) {
+            if (count == left) leftptr = temp;
+
+            if (count == right) rightptr = temp;
+
+            if (left > 0 && count == left - 1) start = temp;
+
+            if (temp != null && count == right + 1) end = temp;
+
+            count++;
+            temp = temp.next;
+        }
+
+        ListNode curr = leftptr;
+        ListNode agla = null;
+        ListNode prev = null;
+
+        while (curr != rightptr.next) {
+            agla = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = curr.next;
+        }
+
+        leftptr = prev;
+        if (start != head) start.next = leftptr;
+        if (end != head) rightptr.next = end;
+
+        return head;
+
+    }
+
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode ans = new ListNode();
+        ListNode temp = ans;
+        ListNode temp1 = l1;
+        ListNode temp2 = l2;
+        int carry = 0;
+
+        while (temp1 != null && temp2 != null) {
+            int dig1 = temp1.val;
+            int dig2 = temp2.val;
+
+            ListNode newNode = new ListNode((dig1 + dig2 + carry) % 10);
+            carry = (dig1 + dig2 + carry) / 10;
+
+            temp.next = newNode;
+            temp = temp.next;
+            temp1 = temp1.next;
+            temp2 = temp2.next;
+        }
+
+        while (temp1 != null) {
+            int dig1 = temp1.val;
+
+            ListNode newNode = new ListNode((dig1 + carry) % 10);
+            carry = (dig1 + carry) / 10;
+            temp.next = newNode;
+            temp = temp.next;
+            temp1 = temp1.next;
+        }
+
+        while (temp2 != null) {
+            int dig2 = temp2.val;
+
+            ListNode newNode = new ListNode((dig2 + carry) % 10);
+            carry = (dig2 + carry) / 10;
+            temp.next = newNode;
+            temp = temp.next;
+            temp2 = temp2.next;
+        }
+
+        if (carry != 0) {
+            temp.next = new ListNode(carry, null);
+        }
+        return ans.next;
+    }
+
+    public ListNode partition(ListNode head, int x) {
+        if (head == null || head.next == null) return head;
+
+        ListNode temp = head;
+        ListNode smallerHead = new ListNode();
+        ListNode biggerHead = new ListNode();
+        ListNode smallTemp = smallerHead;
+        ListNode bigTemp = biggerHead;
+
+        while (temp != null) {
+            if (temp.val < x) {
+                smallTemp.next = temp;
+                smallTemp = temp;
+            } else {
+                bigTemp.next = temp;
+                bigTemp = temp;
+            }
+            temp = temp.next;
+        }
+
+        if (smallerHead != null) smallerHead = smallerHead.next;
+        if (biggerHead != null) biggerHead = biggerHead.next;
+        if (bigTemp != null) bigTemp.next = null;
+
+        if (smallTemp != null) smallTemp.next = biggerHead;
+
+        if (smallerHead != null) return smallerHead;
+        else return biggerHead;
+    }
+
+    private void display(ListNode head) {
+        do {
+            head = head.next;
+            System.out.print(head.val + " ");
+        } while (head != null);
+    }
+
+    public static void main(String[] args) {
     }
 
 }
