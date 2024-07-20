@@ -45,7 +45,6 @@ public class B_BFSAndDFS {
 
     public static void bfs(ArrayList<Edge>[] graph, boolean[] vis, int start) {
         Queue<Integer> q = new LinkedList<>();
-        boolean inserted = false;
         int count = 0;
 
         q.add(start);
@@ -63,8 +62,6 @@ public class B_BFSAndDFS {
                 }
             }
         }
-
-        System.out.println("\n" + count);
     }
 
     public static void dfs(ArrayList<Edge>[] graph, boolean[] vis, int curr) {

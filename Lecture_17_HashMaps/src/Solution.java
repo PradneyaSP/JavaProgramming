@@ -41,4 +41,27 @@ public class Solution {
 
         return count;
     }
+
+    public int minSteps(String s, String t) {
+        Map<Character,Integer> sMap = new HashMap<>();
+        Map<Character,Integer> tMap = new HashMap<>();
+
+        for(char c  : s.toCharArray()){
+            int k = sMap.getOrDefault(c,0);
+            sMap.put(c,k+1);
+        }
+
+        for(char c  : t.toCharArray()){
+            int k = tMap.getOrDefault(c,0);
+            tMap.put(c,k+1);
+        }
+
+        int ans = 0;
+        for(char c : sMap.keySet()){
+            int x = sMap.get(c);
+            int y = tMap.getOrDefault(c,0);
+            ans += x-y;
+        }
+        return ans;
+    }
 }
